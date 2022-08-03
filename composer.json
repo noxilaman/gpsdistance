@@ -1,0 +1,19 @@
+{
+    "name": "noxil/gpsdistance",
+    "description": "GPS of LAt Long Tools Box - Distance",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Noxil\\Gpsdistance\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Parinya Kornpitak",
+            "email": "pong.cpe@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
