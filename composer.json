@@ -17,7 +17,7 @@
     "minimum-stability": "dev",
     "require": {},
     "extra": {
-      "laravel": {https://github.com/noxilaman/gpsdistance/blob/main/composer.json
+      "laravel": {
           "providers": [
               "noxil\\gpsdistance\\GpsDistanceServiceProvider"
           ]
