@@ -1,7 +1,6 @@
 {
     "name": "noxil/gpsdistance",
     "description": "GPS of LAt Long Tools Box - Distance",
-    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
